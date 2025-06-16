@@ -80,8 +80,8 @@
 
 Update steps:
 
-1. Update library: `go get github.com/InfluxCommunity/influxdb3-go/v2/influxdb3`
-1. Update import path in Go files to `github.com/InfluxCommunity/influxdb3-go/v2/influxdb3`.
+1. Update library: `go get github.com/Cacsjep/influxdb3-go/influxdb3`
+1. Update import path in Go files to `github.com/Cacsjep/influxdb3-go/influxdb3`.
 
 ### Features
 

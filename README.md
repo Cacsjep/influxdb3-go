@@ -2,7 +2,7 @@
     <img src="gopher.png" alt="Gopher" width="150px">
 </p>
 <p align="center">
-    <a href="https://pkg.go.dev/github.com/InfluxCommunity/influxdb3-go/v2">
+    <a href="https://pkg.go.dev/github.com/Cacsjep/influxdb3-go">
         <img src="https://pkg.go.dev/badge/github.com/InfluxCommunity/influxdb3-go.svg" alt="Go Reference">
     </a>
     <a href="https://goreportcard.com/report/github.com/InfluxCommunity/influxdb3-go">
@@ -59,7 +59,7 @@ To use this client, you'll need the following credentials for writing and queryi
 <!--pytest-codeblocks:cont-->
 
    ```sh
-   go get github.com/InfluxCommunity/influxdb3-go/v2/influxdb3
+   go get github.com/Cacsjep/influxdb3-go/influxdb3
    ```
 
 ### Outside a module (standalone)
@@ -79,7 +79,7 @@ import (
   "fmt"
   "os"
 
-  "github.com/InfluxCommunity/influxdb3-go/v2/influxdb3"
+  "github.com/Cacsjep/influxdb3-go/influxdb3"
 )
 ```
 

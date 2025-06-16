@@ -1,4 +1,4 @@
-module github.com/InfluxCommunity/influxdb3-go/v2
+module github.com/Cacsjep/influxdb3-go
 
 go 1.23.10
 
